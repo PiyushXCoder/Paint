@@ -37,6 +37,7 @@ public class Paint extends javax.swing.JFrame {
      * Creates new form JFrame
      */
     public Paint() {
+        this.setTitle("Paint");
         initComponents();
     }
 
